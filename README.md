@@ -11,4 +11,4 @@ How to download?
 - Next write here server ID of server what you want to clone
 - Next write here server ID where you want to paste it :)
 
-ENJOY DISCORD TOKEN CHECKER :)
+ENJOY DISCORD SERVER CLONER :)
